@@ -1,0 +1,13 @@
+T
+KD:\Programfiles\Dotnet\demoMS\trainee\Controllers\TraineeModelController.csutf-8S
+JD:\Programfiles\Dotnet\demoMS\trainee\Migrations\20231222110439_trainee.csutf-8^
+SD:\Programfiles\Dotnet\demoMS\trainee\Migrations\20231222110439_trainee.Designer.csutf-8Z
+OD:\Programfiles\Dotnet\demoMS\trainee\Migrations\traineeContextModelSnapshot.csutf-8G
+>D:\Programfiles\Dotnet\demoMS\trainee\Models\TraineeContext.csutf-8E
+<D:\Programfiles\Dotnet\demoMS\trainee\Models\TraineeModel.csutf-89
+0D:\Programfiles\Dotnet\demoMS\trainee\Program.csutf-89
+0D:\Programfiles\Dotnet\demoMS\trainee\Startup.csutf-8[
+PD:\Programfiles\Dotnet\demoMS\trainee\obj\Debug\net8.0\trainee.GlobalUsings.g.csutf-8p
+eD:\Programfiles\Dotnet\demoMS\trainee\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8Y
+ND:\Programfiles\Dotnet\demoMS\trainee\obj\Debug\net8.0\trainee.AssemblyInfo.csutf-8l
+aD:\Programfiles\Dotnet\demoMS\trainee\obj\Debug\net8.0\trainee.MvcApplicationPartsAssemblyInfo.csutf-8

@@ -1,0 +1,16 @@
+﻿D:\Programfiles\Dotnet\demoMS\trainee\Controllers\TraineeModelController.cs
+D:\Programfiles\Dotnet\demoMS\trainee\Migrations\20231222110439_trainee.cs
+D:\Programfiles\Dotnet\demoMS\trainee\Migrations\20231222110439_trainee.Designer.cs
+D:\Programfiles\Dotnet\demoMS\trainee\Migrations\traineeContextModelSnapshot.cs
+D:\Programfiles\Dotnet\demoMS\trainee\Models\TraineeContext.cs
+D:\Programfiles\Dotnet\demoMS\trainee\Models\TraineeModel.cs
+D:\Programfiles\Dotnet\demoMS\trainee\Program.cs
+D:\Programfiles\Dotnet\demoMS\trainee\Startup.cs
+D:\Programfiles\Dotnet\demoMS\trainee\obj\Debug\net8.0\trainee.GlobalUsings.g.cs
+D:\Programfiles\Dotnet\demoMS\trainee\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+D:\Programfiles\Dotnet\demoMS\trainee\obj\Debug\net8.0\trainee.AssemblyInfo.cs
+D:\Programfiles\Dotnet\demoMS\trainee\obj\Debug\net8.0\trainee.MvcApplicationPartsAssemblyInfo.cs
+D:\Programfiles\Dotnet\demoMS\trainee\appsettings.Development.json
+D:\Programfiles\Dotnet\demoMS\trainee\appsettings.json
+D:\Programfiles\Dotnet\demoMS\trainee\trainee.http
+D:\Programfiles\Dotnet\demoMS\trainee\Properties\launchSettings.json
